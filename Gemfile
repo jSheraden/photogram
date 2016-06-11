@@ -36,6 +36,7 @@ gem 'haml'
 gem 'paperclip', '~> 4.2'
 gem 'simple_form', '~> 3.1.0'
 gem 'bootstrap-sass', '~> 3.3.5'
+gem 'devise'
 
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
